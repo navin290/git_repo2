@@ -1,0 +1,8 @@
+import java.util.*;
+public class touch{
+public static void main(String args[]){
+Scanner o=new Scanner (System.in);
+int a=o.nextInt();
+int b=o.nextInt();
+System.out.print(a+b);
+}}
